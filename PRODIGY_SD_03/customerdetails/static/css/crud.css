@@ -1,0 +1,44 @@
+body {
+    background: rgb(88, 56, 250) !important;
+    height: 100%;
+    margin: 50px 0;
+    padding-left: 300px;
+}
+
+table,
+th,
+td {
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+    border-radius: 20px;
+    border: 1px solid rgb(118, 200, 221);
+}
+
+tr:hover {
+    background-color: yellow;
+}
+
+th {
+    background-color: #0473aa;
+    color:rgb(130, 106, 251);
+}
+
+button {
+    border-radius: 25px;
+    border: 2px solid #f2f1f6;
+    padding: 20px;
+    width: 100px;
+    cursor:pointer;
+    /* height: 150px; */
+}
+h2{
+    margin-left: 50px;
+    
+}
+a{
+    background-color: rgb(130, 106, 251);
+}
+.Customer{
+    color:white;
+
+}
